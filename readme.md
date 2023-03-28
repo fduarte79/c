@@ -1,3 +1,6 @@
+# Introdução
+Compilando: ```g++ file.cpp -o bin```   
+Executando: ```./bin```
 
 # Bibliografia
 + [Introdução à Programação em C++. Lucas S Vieia](https://luksamuk.codes/files/treinamento-cpp.pdf)
